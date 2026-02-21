@@ -1,1 +1,1 @@
-This folder contains scripts of the Shell, basics project
+I/O Redirections and Filters
